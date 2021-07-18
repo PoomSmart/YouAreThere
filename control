@@ -1,0 +1,11 @@
+Package: com.ps.youarethere
+Name: YouAreThere
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Disable "Video paused. Continue watching?" popup in YouTube app when you play a long video.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: https://poomsmart.github.io/repo/depictions/youarethere.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youarethere.json
