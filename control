@@ -1,8 +1,8 @@
-Package: com.ps.youarethere
-Name: YouAreThere
+Package: com.ps.noytannoyances
+Name: NoYTAnnoyances
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Disable "Video paused. Continue watching?" popup in YouTube app when you play a long video.
+Description: Removes YouTube annoyances such as "Video paused. Continue watching?" popups or fullscreen popups advertising YouTube Premium
 Maintainer: PoomSmart
 Author: PoomSmart
 Section: Tweaks

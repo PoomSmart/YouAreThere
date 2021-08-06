@@ -13,3 +13,9 @@
 }
 
 %end
+
+%hook YTInterstitialPromoEventGroupHandler
+
+- (void)addEventHandlers {}
+
+%end
