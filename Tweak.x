@@ -1,15 +1,15 @@
 %hook YTColdConfig
 
-- (bool)enableYouthereCommandsOnIos {
-    return false;
+- (BOOL)enableYouthereCommandsOnIos {
+    return NO;
 }
 
 %end
 
 %hook YTYouThereController
 
-- (bool)shouldShowYouTherePrompt {
-    return false;
+- (BOOL)shouldShowYouTherePrompt {
+    return NO;
 }
 
 %end
